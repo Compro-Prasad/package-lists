@@ -1,0 +1,1 @@
+https://github.com/0x192/universal-android-debloater/releases/download/0.5.1/uad_gui-linux.tar.gz
