@@ -3,3 +3,15 @@ kitty
 hunspell-en_gb
 hunspell-en_us
 xcape
+ripgrep
+fd
+ruff
+pyright
+yt-dlp
+phantomjs
+python-brotli
+python-brotlicffi
+python-mutagen
+python-secretstorage
+python-websockets
+python-xattr
