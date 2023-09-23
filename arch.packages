@@ -15,3 +15,5 @@ python-mutagen
 python-secretstorage
 python-websockets
 python-xattr
+texlive-latex
+texlive-plaingeneric
