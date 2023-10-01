@@ -15,6 +15,11 @@ python-websockets
 python-xattr
 texlive-latex
 texlive-plaingeneric
+texlive-latexextra
+texlive-fontsrecommended
+texlive-fontsextra
+texlive-xetex
+gnome-font-viewer
 autoconf
 automake
 cppcheck
