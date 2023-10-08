@@ -6,6 +6,7 @@ ripgrep
 fd
 ruff
 pyright
+htop
 yt-dlp
 python-brotli
 python-brotlicffi
@@ -19,7 +20,14 @@ texlive-latexextra
 texlive-fontsrecommended
 texlive-fontsextra
 texlive-xetex
+vim
 gnome-font-viewer
+gnome-control-center
+gnome-calculator
+gthumb
+gedit
+ranger
+mpv
 autoconf
 automake
 cppcheck
