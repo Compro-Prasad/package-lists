@@ -61,3 +61,6 @@ cmake
 prettier
 typescript-language-server
 fuse2
+tlp
+smartmontools
+ethtool
