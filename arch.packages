@@ -64,3 +64,14 @@ fuse2
 tlp
 smartmontools
 ethtool
+libgccjit
+ipython
+python-poetry
+python-pandas
+python-jinja
+python-xlrd
+python-psycopg
+python-matplotlib
+ffmpeg
+imagemagick
+python-mamba
